@@ -1,0 +1,2 @@
+#global execution context;
+-javascript
